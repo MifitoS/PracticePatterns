@@ -1,4 +1,4 @@
-package Builder;
+package builder;
 
 public class Test {
     public static void main(String[] args) {
@@ -6,6 +6,8 @@ public class Test {
                 .withName("Anton")
                 .withSurname("Lobov")
                 .build();
+
+
 
     }
 }

@@ -1,4 +1,4 @@
-package Factory;
+package factrory1;
 
 public class BankAccountCreator {
 

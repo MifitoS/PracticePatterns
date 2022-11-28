@@ -1,4 +1,4 @@
-package Builder;
+package builder;
 
 import java.util.Set;
 
@@ -11,7 +11,6 @@ public class SuperHero {
     private Set<SuperHero> superHeroes;
 
     public static class Builder{
-
 
         private SuperHero superHero;
 

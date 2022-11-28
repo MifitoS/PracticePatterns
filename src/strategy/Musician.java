@@ -1,12 +1,11 @@
-package Strategy;
+package strategy;
 
 public class Musician {
+    Instrument instrument;
 
     public Musician(Instrument instrument) {
         this.instrument = instrument;
     }
-
-    Instrument instrument;
 
     public void play(){
         instrument.createMelody();

@@ -1,4 +1,4 @@
-package Strategy;
+package strategy;
 
 public class Piano implements Instrument {
     @Override
